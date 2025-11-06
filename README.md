@@ -19,8 +19,8 @@ It adapts seamlessly across different screen sizes, stacking vertically on mobil
 
 ### Screenshots
 
-![Desktop](./images/Screenshots/Screenshot_6-11-2025_17735_127.0.0.1.jpeg)
-![Mobile](./images/Screenshots/Screenshot_6-11-2025_17833_127.0.0.1.jpeg)
+![Desktop](./Screenshots/Screenshot_6-11-2025_17735_127.0.0.1.jpeg)
+![Mobile](./Screenshots/Screenshot_6-11-2025_17833_127.0.0.1.jpeg)
 
 ### Built with
 
