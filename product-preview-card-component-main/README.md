@@ -3,6 +3,7 @@
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
 ## Table of contents
+
 - [Overview](#overview)
 - [Screenshot](#screenshot)
 - [Links](#links)
@@ -31,5 +32,5 @@ It adapts seamlessly across different screen sizes, stacking vertically on mobil
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-Xe0FgSEyb5)
+- Live Site URL: (https://productpreviewcard611.netlify.app/)
