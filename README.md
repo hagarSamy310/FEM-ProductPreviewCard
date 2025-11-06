@@ -5,7 +5,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Table of contents
 
 - [Overview](#overview)
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshots)
 - [Links](#links)
 - [Built with](#built-with)
 
@@ -19,8 +19,8 @@ It adapts seamlessly across different screen sizes, stacking vertically on mobil
 
 ### Screenshots
 
-![](./images/Screenshots/Screenshot_6-11-2025_17735_127.0.0.1.jpeg)
-![](./images/Screenshots/Screenshot_6-11-2025_17833_127.0.0.1.jpeg)
+![Desktop](./images/Screenshots/Screenshot_6-11-2025_17735_127.0.0.1.jpeg)
+![Mobile](./images/Screenshots/Screenshot_6-11-2025_17833_127.0.0.1.jpeg)
 
 ### Built with
 
